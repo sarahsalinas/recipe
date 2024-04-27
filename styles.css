@@ -1,0 +1,12 @@
+/* color palette */
+:root {
+    --black: #0d0d0d;
+    --white: #f2f2f2;
+    --teal: #7abfbf;
+    --lt-teal: #7abfbf80;
+    --orange: #eb5428;
+}
+
+html {
+    background-color: var(--lt-teal);
+}
